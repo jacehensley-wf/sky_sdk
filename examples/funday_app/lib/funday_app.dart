@@ -48,8 +48,6 @@ import 'package:sky/services/testing/test_harness.mojom.dart';
 import 'package:sky/services/viewport/input_event.mojom.dart';
 import 'package:sky/services/viewport/viewport_observer.mojom.dart';
 import "dart:sky";
-import 'stock_data.dart';
-import 'stock_list.dart';
 import 'popover_menu.dart';
 
 
