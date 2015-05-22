@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68cacbb1-de58-4ab4-8cfc-39c378d0d5b3" name="Default" comment="" />
+    <list default="true" id="68cacbb1-de58-4ab4-8cfc-39c378d0d5b3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/funday_app/data/stock_data_9.json" afterPath="" />
+    </list>
     <ignored path="sky_sdk.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,6 +119,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sky_sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sky_sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="funday_app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
