@@ -1,0 +1,9 @@
+<sky>
+<script>
+import 'lib/funday_app.dart';
+
+void main() {
+  new FundayApp();
+}
+</script>
+</sky>

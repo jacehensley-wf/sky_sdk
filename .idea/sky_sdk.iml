@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/examples/funday_app/packages/funday_app" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/stocks/packages/stocks" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/mojo/packages/mojo" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/sky/packages/sky" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

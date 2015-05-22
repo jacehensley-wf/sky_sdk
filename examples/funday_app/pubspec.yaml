@@ -1,0 +1,5 @@
+name: funday_app
+author: Jace Hensley
+description: TODO
+dependencies:
+  sky: any
